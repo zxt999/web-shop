@@ -7,4 +7,4 @@ export default function Home() {
           <p style={{width:'100%', textAlign:'center'}}>name</p>
       </div>
   )
-}g
+}
